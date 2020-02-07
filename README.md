@@ -44,10 +44,10 @@ Actor, Grid, Header, HeroImage, LoadMoreBtn, Modal, MovieInfo, MovieInfoBar, Mov
 
 ### Home Page
 ##### The homepage is divided into four sections: 
-###### Header
-###### The main hero
-###### Search bar
-###### Popular Movies
+###### Header - includes a custom logo design and references the movieDB logo as per movieDB guidelines.
+###### The main hero image- a dynamic hero image that reflects the most popular movie from the API.
+###### Search bar -functionality to search the movie repo and renders search results from the API
+###### Popular Movies - list of pupular movies fetched from the API and the results are stored in session storage to allow the user to experience the most updated list of popular movies.
 ---
 
 ### Wireframes
@@ -58,7 +58,7 @@ Actor, Grid, Header, HeroImage, LoadMoreBtn, Modal, MovieInfo, MovieInfoBar, Mov
 
 <img src='https://i.imgur.com/JEcHBCG.png'/>
 
-#### We used hooks to fetch movies
+#### We used React hooks to set state, include an empty array for the results to pass through once we fetch the movies.
 
 ```
 import { useState, useEffect } from 'react'
