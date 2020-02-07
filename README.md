@@ -3,7 +3,7 @@
 
 !['logo'](https://i.imgur.com/NxznUKA.png )
 Deployed project here: 
-LINK HERE 
+<a href="https://eager-hugle-536a1d.netlify.com/">LINK HERE</a>
 
 # Start 
 # Installation
@@ -25,14 +25,15 @@ LINK HERE
 
 ---
 ### Overview 
-##### For FilmLovers
+
+Flixbox is a Netflix-inspired movie repo app built for fellow movie lovers. The app is an extensive movie database with custom-built features, using the MovieDB API. Features include a search/filter functionality for the user, and a 'more listings' button and feature to add further movies to the same page. I developed the site using React and its new feature, React Hooks.
 
 ###### A Web Site- TV & Movie Database with custom-built filters using Third-party APIs.
 
 ---
 ### Technologies used
 
-Technologies: API, CSS, Git, GitHub, React,React Hooks, UX, Node.js, Heroku 
+API, CSS, Git, GitHub, React, React Hooks, UX, Node.js, Heroku, Webpack, JSON, Netlify
 
 ---
 
@@ -119,7 +120,7 @@ fetchMovies(endpoint)
 }
 ```
 
-!['Prewiew'](https://i.imgur.com/QUBleOU.gif)
+!['Preview'](https://i.imgur.com/QUBleOU.gif)
 
 #### Load more movies function
 
@@ -210,7 +211,7 @@ export default useMovieFetch
 ---
 
 ### Modifications:
-Filtering, Trailer, Comments/ Logins, Refactoring, Accessibility
+Filtering (ie genres), incorporating trailers, adding a comments feature once a user registers and logins, and mobile respinsive design.
 
 
 
