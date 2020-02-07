@@ -28,7 +28,6 @@ Deployed project here:
 
 Flixbox is a Netflix-inspired movie repo app built for fellow movie lovers. The app is an extensive movie database with custom-built features, using the MovieDB API. Features include a search/filter functionality for the user, and a 'more listings' button and feature to add further movies to the same page. I developed the site using React and its new feature, React Hooks.
 
-###### A Web Site- TV & Movie Database with custom-built filters using Third-party APIs.
 
 ---
 ### Technologies used
@@ -138,7 +137,7 @@ fetchMovies(endPoint)
 --- 
 ### Movie Show page
 
-- Our approach was to first get the key information about the movie displayed on the page.  (image, genre, year etc), and then render the information on the page;
+- In our single pages for the movies (movie.js file), our approach was to first get the key information about the movie displayed on the page  (image, year, director/s etc), and then render the information on the page. We drew from the api by referencing the keyword 'movie' with the respective values they were returning ie 'budget'.
 
 
 #### Render
