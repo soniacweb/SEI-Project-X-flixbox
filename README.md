@@ -1,9 +1,15 @@
 
 ![ga_cog_large_red_rgb](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
 
-<a href="https://flixbox.netlify.com/">!['logo'](https://i.imgur.com/NxznUKA.png ) </a>
+<!-- <a >!['logo'](https://i.imgur.com/NxznUKA.png ) </a> -->
+
+<img href="https://flixbox.netlify.com/" src="https://i.imgur.com/kgZs76A.png" />
+
+
+
 Deployed project here: 
 <a href="https://flixbox.netlify.com/">LINK HERE</a>
+
 
 # Start 
 # Installation
